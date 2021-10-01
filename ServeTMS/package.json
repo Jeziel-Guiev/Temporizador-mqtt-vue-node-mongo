@@ -1,0 +1,16 @@
+{
+  "name": "carlos",
+  "version": "1.0.0",
+  "description": "Proyecto Relees y focos",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/server.js"
+  },
+  "author": "Carlos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.1"
+  }
+}
